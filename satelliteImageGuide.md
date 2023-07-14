@@ -42,7 +42,22 @@ Noaa 19: 137.10 MHz
 You will be using a WebSDR, in this case the one from Nürnberg. A WebSDR is like a real radio but you can access the radio through the internet. For the Nürnberg WebSDR go to: http://nbgsdr.ddns.net
 You should be presented with the followning after maybe scrolling a bit down.
 
-<img width="880" alt="Bildschirmfoto 2023-07-14 um 10 51 25" src="https://github.com/MakerSpace-GYMNBB/Guides/assets/89091446/46821fcc-8740-462c-a61e-a264ed654618">
+
+<img width="880" alt="Bildschirmfoto 2023-07-14 um 10 51 25" src="https://github.com/MakerSpace-GYMNBB/Guides/assets/89091446/85402302-cca9-4b06-b8a1-e29e1561584b">
+
+
+1. Here you can enter your frequency, you want to receive on.
+2. Here you can select the Band
+
+Enter the frequency of the satellite you want to listen to or click on sat!
+
+<img width="1025" alt="Bildschirmfoto 2023-07-14 um 11 01 02" src="https://github.com/MakerSpace-GYMNBB/Guides/assets/89091446/366a5092-e1c8-413e-956a-aab44559dd7f">
+
+1. Bookmark of satellites, which you can click on and the frequency gets changed to corresponding bookmark.
+
+
+
+
 
 
 
