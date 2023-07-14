@@ -45,7 +45,7 @@ You should be presented with the followning after maybe scrolling a bit down.
 
 <img width="880" alt="Bildschirmfoto 2023-07-14 um 10 51 25" src="https://github.com/MakerSpace-GYMNBB/Guides/assets/89091446/85402302-cca9-4b06-b8a1-e29e1561584b">
 
-1. Here you can enter your frequency, you want to receive on.
+1. Here you can enter your frequency, you want to listen on.
    
 2. Here you can select the Band
 
