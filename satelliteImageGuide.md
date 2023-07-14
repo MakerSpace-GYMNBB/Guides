@@ -49,7 +49,7 @@ You should be presented with the followning after maybe scrolling a bit down.
    
 2. Here you can select the Band
 
-Enter the frequency of the satellite you want to listen to or click on sat!
+Enter the frequency of the satellite you want to listen to or click on SAT!
 
 
 
