@@ -22,7 +22,13 @@ To find a satellite, which is near us, we will use the www.n2yo.com site. It all
 
 If you got redirexted to the site, you should be able to see something like this.
 
-[satInfoScreen.png]https://github.com/MakerSpace-GYMNBB/Guides/blob/main/satInfoScreen.png?raw=true
+<img width="880" alt="satInfoScreen" src="https://github.com/MakerSpace-GYMNBB/Guides/assets/89091446/a8ecdd22-46cc-4093-b254-c43b325d4808">
 
+1. Orbit of the satellite
+2. Satellite
+3. Next time the satellite will be passing over your location
+
+You can navigate on the map like on google maps, use your scroll wheel to zoom out or the minus and plus buttons.
+Yor location should be marked by a red dot on the map.
 
 
