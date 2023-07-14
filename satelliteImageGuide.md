@@ -20,7 +20,7 @@ If you have installed the software, we can proceed with the next section.
 ## 1. Finding the satellite
 To find a satellite, which is near us, we will use the www.n2yo.com site. It allows, you to see the exact location of many satellites and predict their orbit. We will only focus on the Noaa 15, 18, 19 satellites. To find a satellite, for example noaa 15, tap onto the search bar in the top right corner of the screen. You may then type the name of the satellite into the search bar, for example "noaa 15", you should be then redirected to the site of the satellite. Please note, that you need to enter the noaa names with the space, so in the following format, "noaa NUMBER".
 
-If you got redirexted to the site, you should be able to see something like this.
+If you got redirected to the site, you should be able to see something like this.
 
 <img width="880" alt="satInfoScreen" src="https://github.com/MakerSpace-GYMNBB/Guides/assets/89091446/a8ecdd22-46cc-4093-b254-c43b325d4808">
 
