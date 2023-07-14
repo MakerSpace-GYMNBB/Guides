@@ -45,24 +45,41 @@ You should be presented with the followning after maybe scrolling a bit down.
 
 <img width="880" alt="Bildschirmfoto 2023-07-14 um 10 51 25" src="https://github.com/MakerSpace-GYMNBB/Guides/assets/89091446/85402302-cca9-4b06-b8a1-e29e1561584b">
 
-
 1. Here you can enter your frequency, you want to receive on.
+   
 2. Here you can select the Band
 
 Enter the frequency of the satellite you want to listen to or click on sat!
 
+
+
 <img width="1025" alt="Bildschirmfoto 2023-07-14 um 11 01 02" src="https://github.com/MakerSpace-GYMNBB/Guides/assets/89091446/366a5092-e1c8-413e-956a-aab44559dd7f">
 
 1. Bookmark of satellites, which you can click on and the frequency gets changed to corresponding bookmark.
+   
+<img width="1080" alt="Bildschirmfoto 2023-07-14 um 09 53 07" src="https://github.com/MakerSpace-GYMNBB/Guides/assets/89091446/12275eb2-6617-4907-bff7-92c001912e04">
+1. Typical signal for picture transmission of noaa satellites
+
+If you got a signal like in 1, scroll down and proceed.
+
+<img width="823" alt="Bildschirmfoto 2023-07-14 um 14 40 27" src="https://github.com/MakerSpace-GYMNBB/Guides/assets/89091446/c6f0dff2-f053-4ee4-9b88-dc6d3b72a3e3">
+
+1. Start audio recording
+   
+If you are not already here, scroll down the website. We will record the audio from the satellite, by pressing on the "start" button.
 
 
+<img width="801" alt="Bildschirmfoto 2023-07-14 um 09 53 25" src="https://github.com/MakerSpace-GYMNBB/Guides/assets/89091446/e6483447-fe2c-40c5-8a17-ea2cfd768c49">
+
+1. Stop button
+
+If there's no data transmitted from the satellite anymore, press the stop button.
 
 
+<img width="856" alt="Bildschirmfoto 2023-07-14 um 15 01 16" src="https://github.com/MakerSpace-GYMNBB/Guides/assets/89091446/e098f7fd-c699-46ba-a625-b0e834bd5b85">
 
+1. Download button
 
-
-
-
-
+Download the audio recording by pressing the audio button.
 
 
