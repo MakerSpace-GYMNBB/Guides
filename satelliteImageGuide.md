@@ -83,3 +83,28 @@ If there's no data transmitted from the satellite anymore, press the stop button
 Download the audio recording by pressing the audio button.
 
 
+## Decode the satellite data
+Open the noaa-apt software, for reference on installing and starting, see #Prework. We will now take the data we received from the satellite and decode it into an image.
+
+<img width="999" alt="Bildschirmfoto 2023-07-14 um 15 12 17" src="https://github.com/MakerSpace-GYMNBB/Guides/assets/89091446/56de2d6e-6c3a-4dc2-b756-7600bbae4dc3">
+
+1. Processing tab
+2. File select bar
+3. Decode button
+
+First, load the file by pressing the File select bar, select your already downloaded audiofile. Secondly, press the decode button. And last but not least, move to the processing tab, by selecting it in the top bar.
+
+
+<img width="999" alt="Bildschirmfoto 2023-07-14 um 15 25 17" src="https://github.com/MakerSpace-GYMNBB/Guides/assets/89091446/30b3d7bf-e9b1-4b5f-8a36-1a883e7f03c2">
+1. Process button
+
+Press the process button, the picture should appear on the right side of the screen.
+
+<img width="999" alt="Bildschirmfoto 2023-07-14 um 15 27 50" src="https://github.com/MakerSpace-GYMNBB/Guides/assets/89091446/20553f24-cbc6-454f-ba02-f147d3454719">
+
+We were able to get quite a good picture.
+
+
+
+
+
