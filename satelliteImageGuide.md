@@ -84,7 +84,7 @@ Download the audio recording by pressing the download button.
 
 
 ## Decode the satellite data
-Open the noaa-apt software, for reference on installing and starting, see #Prework. We will now take the data we received from the satellite and decode it into an image.
+Open the noaa-apt software, for reference about installing and starting, see #Prework. We will now take the data we received from the satellite and decode it into an image.
 
 <img width="999" alt="Bildschirmfoto 2023-07-14 um 15 12 17" src="https://github.com/MakerSpace-GYMNBB/Guides/assets/89091446/56de2d6e-6c3a-4dc2-b756-7600bbae4dc3">
 
