@@ -31,7 +31,7 @@ If you got redirected to the site, you should be able to see something like this
 You can navigate on the map like on google maps, use your scroll wheel to zoom out or the minus and plus buttons.
 Your location should be marked by a red dot on the map.
 
-Now that you know how to use the website, just search for one of the satellites and listen to them when they are near you. To be later able to listen to the satellite, note down the frequency it is sending on, you can get it from this list:
+Now that you know how to use the website, just search for one of the satellites and listen to them when they are near you. To be later able to listen to the satellite, note down the frequency it is sending on, which you can get from this list:
 
 Noaa 15: 137.620MHz
 Noaa 18: 137.9125 MHz
