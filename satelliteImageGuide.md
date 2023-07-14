@@ -22,8 +22,7 @@ To find a satellite, which is near us, we will use the www.n2yo.com site. It all
 
 If you got redirexted to the site, you should be able to see something like this.
 
-[satInfoScreen.png
-](https://github.com/MakerSpace-GYMNBB/Guides/blob/ca114e3997b9913e2ccc9da77f654cc27cef0497/satInfoScreen.png)https://github.com/MakerSpace-GYMNBB/Guides/blob/ca114e3997b9913e2ccc9da77f654cc27cef0497/satInfoScreen.png
+[satInfoScreen.png]https://github.com/MakerSpace-GYMNBB/Guides/blob/main/satInfoScreen.png?raw=true
 
 
 
