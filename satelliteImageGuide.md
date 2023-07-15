@@ -81,6 +81,7 @@ If you are not already here, scroll down on the site. We will record the audio f
 
 If there's no data transmitted from the satellite anymore, press the stop button.
 
+---
 
 <img width="856" alt="Bildschirmfoto 2023-07-14 um 15 01 16" src="https://github.com/MakerSpace-GYMNBB/Guides/assets/89091446/e098f7fd-c699-46ba-a625-b0e834bd5b85">
 
