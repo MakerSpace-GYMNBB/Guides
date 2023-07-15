@@ -72,6 +72,8 @@ If you got a signal like in 1, scroll down and proceed.
    
 If you are not already here, scroll down on the site. We will record the audio from the satellite, by pressing the "start" button.
 
+---
+
 
 <img width="801" alt="Bildschirmfoto 2023-07-14 um 09 53 25" src="https://github.com/MakerSpace-GYMNBB/Guides/assets/89091446/e6483447-fe2c-40c5-8a17-ea2cfd768c49">
 
