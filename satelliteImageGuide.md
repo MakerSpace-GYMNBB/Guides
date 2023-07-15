@@ -51,7 +51,7 @@ You should be presented with the followning after maybe scrolling a bit down.
 
 Enter the frequency of the satellite you want to listen to or click on SAT!
 
-
+---
 
 <img width="1025" alt="Bildschirmfoto 2023-07-14 um 11 01 02" src="https://github.com/MakerSpace-GYMNBB/Guides/assets/89091446/366a5092-e1c8-413e-956a-aab44559dd7f">
 
