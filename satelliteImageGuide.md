@@ -3,8 +3,9 @@
 The purpose of this guide is to teach how to receive images from weather satellites for example the NOAA15-20 satellites. The guide is meant for use in education for example geography class. It will teach you how to find a satellite, get the coressponding raw data from it and decode this data into an actual image. This guide will use for accessebility a WebSDR, but the same could also be achieved by using a physical SDR you own, like the HackRF One or the RTL-SDR.
 
 ## Requirements
-PC with Windows / MacOS / Linux
+PC with Windows / MacOS / Linux to decode the audioo file
 Internet connection to get the raw audio data from the satellite using a WebSDR.
+
 
 ## Basic structure
 1. We will use the website www.n2yo.com to get the position of the satellite.
