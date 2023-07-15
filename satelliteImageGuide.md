@@ -63,6 +63,7 @@ Enter the frequency of the satellite you want to listen to or click on SAT!
 1. Typical signal for picture transmission of noaa satellites
 
 If you got a signal like in 1, scroll down and proceed.
+
 ---
 
 <img width="823" alt="Bildschirmfoto 2023-07-14 um 14 40 27" src="https://github.com/MakerSpace-GYMNBB/Guides/assets/89091446/c6f0dff2-f053-4ee4-9b88-dc6d3b72a3e3">
