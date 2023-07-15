@@ -14,7 +14,7 @@ Internet connection to get the raw audio data from the satellite using a WebSDR.
 
 
 ## Prework
-To decode the audio data we will later receive, we will use a software called noaa-apt, you can find the install instructions on the website (https://noaa-apt.mbernardi.com.ar/download.html). As of now, there are only precompiled binaries available for windows, so you may be required to compile the software yourself. You will find detailed instructions on the download site, please refer to them. We won't provide exact install instructions, as they might change over time.
+To decode the audio data we will later receive, we will use a software called noaa-apt, you can find the install instructions on the website (https://noaa-apt.mbernardi.com.ar/download.html). As of now, there are only precompiled binaries available for windows, so you may be required to compile the software yourself. You will find detailed instructions on the download site, please refer to them. We won't provide exact installation instructions, as they might change over time.
 
 If you have installed the software, we can proceed with the next section.
 
