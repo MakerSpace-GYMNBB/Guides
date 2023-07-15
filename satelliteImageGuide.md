@@ -56,6 +56,8 @@ Enter the frequency of the satellite you want to listen to or click on SAT!
 <img width="1025" alt="Bildschirmfoto 2023-07-14 um 11 01 02" src="https://github.com/MakerSpace-GYMNBB/Guides/assets/89091446/366a5092-e1c8-413e-956a-aab44559dd7f">
 
 1. Bookmark of satellites, which you can click on and the frequency gets changed to the bookmarked one.
+
+---
    
 <img width="1080" alt="Bildschirmfoto 2023-07-14 um 09 53 07" src="https://github.com/MakerSpace-GYMNBB/Guides/assets/89091446/12275eb2-6617-4907-bff7-92c001912e04">
 1. Typical signal for picture transmission of noaa satellites
