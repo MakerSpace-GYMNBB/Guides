@@ -43,7 +43,7 @@ Noaa 19: 137.10 MHz
 
 ## 2. Listening to the satellites
 You will be using a WebSDR, in this case the one from Nürnberg. A WebSDR is like a real radio but you can access the radio through the internet. For the Nürnberg WebSDR go to: http://nbgsdr.ddns.net
-You should be presented with the followning after maybe scrolling a bit down.
+You should be presented with the following after maybe scrolling a bit down.
 
 
 <img width="880" alt="Bildschirmfoto 2023-07-14 um 10 51 25" src="https://github.com/MakerSpace-GYMNBB/Guides/assets/89091446/85402302-cca9-4b06-b8a1-e29e1561584b">
